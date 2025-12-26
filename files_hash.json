@@ -1,0 +1,315 @@
+{
+    "summary": {
+        "total_files": 76,
+        "unchanged": 0,
+        "changed": 0,
+        "new": 76,
+        "deleted": 0
+    },
+    "files": {
+        "chrome_100_percent.pak": {
+            "hash": "45d14a4278b1e152b363197401a5604aa5a3cee6512a6b52df978038fa521a0f",
+            "size": 114781
+        },
+        "chrome_200_percent.pak": {
+            "hash": "aafc61b89748d17fcbc9fecd9844a77be2c584529a81714c98e0c4d453ea9496",
+            "size": 186658
+        },
+        "d3dcompiler_47.dll": {
+            "hash": "c8e25abd3d45dfb55966a74613258c39b4a83ea2ac77f2f80903499f4d5c03f0",
+            "size": 4741480
+        },
+        "dxcompiler.dll": {
+            "hash": "6f02237496ce3d04459539c530521e6ae2aa05dc6e3f669769898e604b8d5dd7",
+            "size": 26070528
+        },
+        "dxil.dll": {
+            "hash": "436f128f22050ae27323da61321a469de0678def7a4e6d86f9ccad4858724f0a",
+            "size": 1503600
+        },
+        "ffmpeg.dll": {
+            "hash": "e8ef0c488acde7242b318b7babf6e45297a57ec968abd700f989d6269bf36831",
+            "size": 3058176
+        },
+        "icudtl.dat": {
+            "hash": "5070de99fbd8a48378543511fb7a072f85bf36f94b4f4e1d420d54be1435d6f1",
+            "size": 10467680
+        },
+        "libEGL.dll": {
+            "hash": "cc90ee15962abb35fcc409b854de08b2e640b5aa44c9211be3eafca43917074b",
+            "size": 504320
+        },
+        "libGLESv2.dll": {
+            "hash": "273e0c34c3511fa793eb8c7a30623218c530c01668640d890a70d8c77a5a9466",
+            "size": 8398848
+        },
+        "LICENSE.electron.txt": {
+            "hash": "5154e165bd6c2cc0cfbcd8916498c7abab0497923bafcd5cb07673fe8480087d",
+            "size": 1096
+        },
+        "LICENSES.chromium.html": {
+            "hash": "c16ee3cc1aa0d1669a839428ef26869d7a3844a43df505377b85077e1db14396",
+            "size": 15102119
+        },
+        "Nexus.exe": {
+            "hash": "d01b4e1337a60d5a6c8b894134a9a58b339a53395b29e8b1b1e21e5e509278fb",
+            "size": 210936832
+        },
+        "resources.pak": {
+            "hash": "7e2f5fb099e9a625298f6d094c4b1ef2d59c295e223fccc9ac52af1fdf789b8f",
+            "size": 6301277
+        },
+        "snapshot_blob.bin": {
+            "hash": "8c838a849558a994c524476bf6bc2fab1a36f826f957b9f729261e66f70dcf45",
+            "size": 403834
+        },
+        "Uninstall Nexus.exe": {
+            "hash": "260c0497d529fe7efc8080bab7d9aa4c1d3df75a58e47bbd9521d9435a5dbb5e",
+            "size": 262318
+        },
+        "v8_context_snapshot.bin": {
+            "hash": "fe4724f2a788e8902fe4a0419468bf06e556dbbd419cbd38e95a39c7c0acc2d6",
+            "size": 776865
+        },
+        "vk_swiftshader.dll": {
+            "hash": "1df00e64394fa563016ec1885271e4665d5813da5f9d1ce910d71d9a090e5d81",
+            "size": 5640192
+        },
+        "vk_swiftshader_icd.json": {
+            "hash": "32d83ff113fef532a9f97e0d2831f8656628ab1c99e9060f0332b1532839afd9",
+            "size": 106
+        },
+        "vulkan-1.dll": {
+            "hash": "e6663e25b7380f110166e194eff87257bb25a2a7455037e9e0f33bebeabd1d6e",
+            "size": 944128
+        },
+        "locales\\af.pak": {
+            "hash": "ca253121434ef430661c30672e1097e6d238e42821585b700776b56977c05d97",
+            "size": 581663
+        },
+        "locales\\am.pak": {
+            "hash": "c348b68d8a552f5b7c074d424ecb54ab19aac93e17b61295b36ac10315da5ced",
+            "size": 943438
+        },
+        "locales\\ar.pak": {
+            "hash": "6b050deccd06de33dfc9abe68dd2e256b0838be7bd91f926c03f4edfc6b32cf6",
+            "size": 1041368
+        },
+        "locales\\bg.pak": {
+            "hash": "f2a46c4ee04330ef49f6acc62c26ed7ec57dfe124aa386e08c5b582832c4000e",
+            "size": 1076101
+        },
+        "locales\\bn.pak": {
+            "hash": "b4ada9665be5c9d9fe4254bff291978dfb50c2b22a7149faf9b9c3f470f0d32f",
+            "size": 1388484
+        },
+        "locales\\ca.pak": {
+            "hash": "46a7488ffcb9d7d8b2d9b93ba035ec46fc950dc936a03617ab2606294851c650",
+            "size": 655698
+        },
+        "locales\\cs.pak": {
+            "hash": "609f32e921928b33de0f007e7db6f0ff12f411fbbcb85b0596e4f674bcc6d399",
+            "size": 679853
+        },
+        "locales\\da.pak": {
+            "hash": "3f33e371a8be4ec3946a6cd484d73260abad36c29560773158f03028be444a8b",
+            "size": 612505
+        },
+        "locales\\de.pak": {
+            "hash": "06b1bba011530d78f5cd5d38c54f1e96d49dfb97d582112761002d8e99eddff8",
+            "size": 656128
+        },
+        "locales\\el.pak": {
+            "hash": "dc27d24e9afd24124abca6dca1a362462851267902fe6493ff3165a1c5aab69f",
+            "size": 1183448
+        },
+        "locales\\en-GB.pak": {
+            "hash": "ee6fc979d1fff0c1a4d6bca929691733665c5df7e7a43cc54f1165ea14cffa67",
+            "size": 530862
+        },
+        "locales\\en-US.pak": {
+            "hash": "bfa782c9efae2c9cd2c0214dae1bbb3c259d4d4c38d920b06677b9c4cf4f813d",
+            "size": 537011
+        },
+        "locales\\es-419.pak": {
+            "hash": "fcff3af49b63faf72e07c36240887420a0041f27645bad58c5462c29b471988c",
+            "size": 646211
+        },
+        "locales\\es.pak": {
+            "hash": "0668fe4b1abb52581cbd0068cb9ee71023dc844e2f830e531a6302de24933bbf",
+            "size": 643823
+        },
+        "locales\\et.pak": {
+            "hash": "e5eddafe1f10905caea4610499067943fb329287fa09fa7cf3ee8bc71670b177",
+            "size": 587467
+        },
+        "locales\\fa.pak": {
+            "hash": "495d6d9570cd7a4d8099968b6f315b80d13719d822cedf6d7c3dc00ae85efb56",
+            "size": 969338
+        },
+        "locales\\fi.pak": {
+            "hash": "c04f5e2b7f30e8e350feefd6cc45f266dbeacf11837cc774c977bf76e9b403a7",
+            "size": 598290
+        },
+        "locales\\fil.pak": {
+            "hash": "48884f90e800b0b0803ddaa0bbebbea1292bf8e1bb5ee8f035a79371bef7ac2b",
+            "size": 678665
+        },
+        "locales\\fr.pak": {
+            "hash": "9ff765a541603297f1c1ad2ddc53d282e30f185b2eda4ea981c84d2127bfd31d",
+            "size": 698781
+        },
+        "locales\\gu.pak": {
+            "hash": "11e4ab3cfa421ea0d4d0971b038a6e7a254094fa6dfe9b8f65fd1572f36bcabb",
+            "size": 1370481
+        },
+        "locales\\he.pak": {
+            "hash": "3bf33db3a0232d8e7306450254a452b0f731bb6ed2bdd76979d8fafd65416900",
+            "size": 849479
+        },
+        "locales\\hi.pak": {
+            "hash": "bb19f47ad91101332c37cb7820a527342b705a6e1863f54edb66c032e993061b",
+            "size": 1449271
+        },
+        "locales\\hr.pak": {
+            "hash": "fe9ef06fbd137dd08a78661ac242a716e9efba4a2ecb0e8ddaf15b65c524f956",
+            "size": 654778
+        },
+        "locales\\hu.pak": {
+            "hash": "501569c5e74285231b41d067e0ea28972ef0ab7b269886485cf1b42cd78cbd1d",
+            "size": 701137
+        },
+        "locales\\id.pak": {
+            "hash": "09d4dd7cbe4eb1b7730a80a3a3cd0606139f4b9647b0a04b49314638680b0a31",
+            "size": 579373
+        },
+        "locales\\it.pak": {
+            "hash": "fb06883d2e2986f407c2fda6fb9a582d7b3a3d32f8864cb5d6655018f908c20f",
+            "size": 634809
+        },
+        "locales\\ja.pak": {
+            "hash": "0369673208ec4758abfed3094e5be0331877fe66af0c1beef6f9d8e7883b769c",
+            "size": 772317
+        },
+        "locales\\kn.pak": {
+            "hash": "76938de8f9377f9dff4672d7f43e233e42bc2053b17e2764115b18f8de47bfa7",
+            "size": 1569200
+        },
+        "locales\\ko.pak": {
+            "hash": "b8ecd18ce8601686ef64129c77f5307d0c60656d27eede7a23b4f3947647b302",
+            "size": 655475
+        },
+        "locales\\lt.pak": {
+            "hash": "6d648211ff3a6801e049c9a3931afaf3007857b2872e55ae11e19849180d19da",
+            "size": 711093
+        },
+        "locales\\lv.pak": {
+            "hash": "b16771adf895df173370d3f3e7411545d01d5ffa0bea4f5061a2a1ded9dcefe7",
+            "size": 708778
+        },
+        "locales\\ml.pak": {
+            "hash": "2bc35d18af85b3c7004a6e1e02591f5db4430a2f334f5c4be3c0a0e04837d9ae",
+            "size": 1620930
+        },
+        "locales\\mr.pak": {
+            "hash": "5dee369e9366bfcc4fc95aec6c58b915933efd72c718d56802e35e8af5a880a0",
+            "size": 1341039
+        },
+        "locales\\ms.pak": {
+            "hash": "5af99080b311e15a19f9988779a1cdd939a7fb9b98bf093fca324eeb58b39602",
+            "size": 609653
+        },
+        "locales\\nb.pak": {
+            "hash": "11e798ef612a1d22b90450c547998bf0b23ccc4ca5265f27f1924c8b09f22937",
+            "size": 586053
+        },
+        "locales\\nl.pak": {
+            "hash": "bf2a7d52d8c061b5f5543e7c4e20b4eac96e65e02a967752af873c3ec30034b2",
+            "size": 609214
+        },
+        "locales\\pl.pak": {
+            "hash": "d22e7666c9c66df8a5bee3b8040a0f9dafe15e9cf908b6712eb5a26812218a93",
+            "size": 679487
+        },
+        "locales\\pt-BR.pak": {
+            "hash": "d5370596d47bad2a2c930688e7f67970381e63b3ae37384b77fd0b631eec3725",
+            "size": 636897
+        },
+        "locales\\pt-PT.pak": {
+            "hash": "b727b377a6ccf25952189c59ef175c213dd1e29e896b6b5fdfacd024c711ac93",
+            "size": 640581
+        },
+        "locales\\ro.pak": {
+            "hash": "205ea8cc0b368426f06c533b636a2845e66e3f7932aa6a680645e79de15edff3",
+            "size": 664148
+        },
+        "locales\\ru.pak": {
+            "hash": "447e788b9d36e6219ba1319a0831d4ea1c1e5e90c7db88bd7a6e6845d2a27d44",
+            "size": 1099996
+        },
+        "locales\\sk.pak": {
+            "hash": "abdebceb4dd71f603cea0e9362943ddc4eb4e65fa0ad417f0958121fc5b2660b",
+            "size": 691249
+        },
+        "locales\\sl.pak": {
+            "hash": "52426fb8fc82d1ed28797ccb62b7fe14f123cddf011f5d5875b076cdb0c33695",
+            "size": 662044
+        },
+        "locales\\sr.pak": {
+            "hash": "e67b36698412b94a6d3a63ffc398f74f005471fb1bdbd195e53330cfc8bbb62d",
+            "size": 1017233
+        },
+        "locales\\sv.pak": {
+            "hash": "3e94e4e0d0ce0c4d0a630540f43c83fe0d898c935f370a0baecf902cd4d04f12",
+            "size": 591886
+        },
+        "locales\\sw.pak": {
+            "hash": "e3bf553f18a0008dc5ac86e001a0ffb190f885260a7bf06feaf34822f0dde36a",
+            "size": 625420
+        },
+        "locales\\ta.pak": {
+            "hash": "b04bec20fed826231af9ba7329cd04227e861e758eb9884ee485d33ae24810ff",
+            "size": 1611807
+        },
+        "locales\\te.pak": {
+            "hash": "62b6f656b301bb7b678f809f9eaa2ff64e020211cb1930aebd16cc1222ce2a53",
+            "size": 1491526
+        },
+        "locales\\th.pak": {
+            "hash": "92919a8a65e9c344dc10a512ad238d4b3c4f6ab30b05e9515712fd7a2450d0b6",
+            "size": 1252346
+        },
+        "locales\\tr.pak": {
+            "hash": "cb445b78fc9c1500a5acaec7eb49e1b36eab8797b82a0257c0e0cdbaf643d6e3",
+            "size": 636750
+        },
+        "locales\\uk.pak": {
+            "hash": "b5534d58e5624f94f48ed010251d5cf3d0cb5063acca310c4c8c6ee61e50e7a9",
+            "size": 1105947
+        },
+        "locales\\ur.pak": {
+            "hash": "c0d81e0446bae6d62b496f5268222ad53fe5e6f7325c19bdb7685974967beb3b",
+            "size": 956225
+        },
+        "locales\\vi.pak": {
+            "hash": "5f11a5911d63793462087c2950ff86cd1ea2af68b11d306c0dc35f59266b157c",
+            "size": 755382
+        },
+        "locales\\zh-CN.pak": {
+            "hash": "9b968ef2fb8f21ed334d37fa2136495666107abda481665ed68381faf7b26e2b",
+            "size": 541891
+        },
+        "locales\\zh-TW.pak": {
+            "hash": "f4bc5203f5954709aa33e9efcac2c3d197ea8b192280d1e30f01b12a416f9312",
+            "size": 535934
+        },
+        "resources\\app.asar": {
+            "hash": "74af021acdeebf1e4b3e19464ca3ebb7cccf297d5d381f95c139914cf29bb0dd",
+            "size": 88504776
+        },
+        "resources\\elevate.exe": {
+            "hash": "9b1fbf0c11c520ae714af8aa9af12cfd48503eedecd7398d8992ee94d1b4dc37",
+            "size": 107520
+        }
+    }
+}
